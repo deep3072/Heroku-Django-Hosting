@@ -1,6 +1,14 @@
 # Heroku-Django-Hosting
 
-* Make sure you have installed Git in your device.
+* Before getting started one must make sure to have following things done
+
+   [Installed Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+   
+   [Make a Heroku account](https://signup.heroku.com/)
+   
+   [Download Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+      
+       
 
 * Create and activate virtual environment in manage.py directory,
 
